@@ -27,7 +27,7 @@ console.log(example);
 let example = "I'm the example!";    
 ```
 
-Even if **let** and **const** prevent a lot of the confusing behavior of JavaScript's hoisting, these are ES6 constructs and a huge amount of the world's live JavaScript code is still ES5. Understanding how ES5 hoists **var** and the rules of scoping are important for every JavaScript developer!
+Even if ***let*** and ***const*** prevent a lot of the confusing behavior of JavaScript's hoisting, these are ES6 constructs and a huge amount of the world's live JavaScript code is still ES5. Understanding how ES5 hoists ***var*** and the rules of scoping are important for every JavaScript developer!
 
 1
 
@@ -134,7 +134,7 @@ function makeDojo(name, students){
 }
 ```
 
-([-]) Rewrite the given code as it is seen by the interpreter
+[-] Rewrite the given code as it is seen by the interpreter
 
 [-] Predict the outputs
 
